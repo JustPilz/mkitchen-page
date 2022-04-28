@@ -2294,9 +2294,9 @@
         "title": "Ребрышки свиные,",
         "count": 2,
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/24e/373_245_0/24e487e45cabd79bd7d0a08ac352951f.webp",
-        "price": 420,
+        "price": 580,
         "link": "https://crosspack.ru/menu/rebryshki-svinye-2sht/",
-        "ingredients": "Ребра свиные, Горчица, Соль, Специи",
+        "ingredients": "Ребра свиные, Горчица, Соль, Перец Чили, Сахар, Специи",
         "indicators": {
             "calories": 406,
             "protein": 29,
@@ -2305,7 +2305,7 @@
         },
         "additional": {
             "caloriesPerUnit": 203,
-            "pricePerUnit": 210
+            "pricePerUnit": 290
         }
     },
     {

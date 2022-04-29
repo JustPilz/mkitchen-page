@@ -1411,26 +1411,8 @@
         }
     },
     {
-        "id": 5809,
-        "order": 77,
-        "category": "meat",
-        "title": "Макароны по-флотски",
-        "weight": 250,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/f2f/373_245_0/f2f73aad14f6b61d34e53c0bd5b803be.webp",
-        "price": 255,
-        "link": "https://crosspack.ru/menu/makarony-po-flotski-250g/",
-        "ingredients": "Говядина, Макароны, Лук репчатый, Масло сливочное, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 407,
-            "protein": 19,
-            "fat": 17,
-            "carbs": 44
-        }
-    },
-    {
         "id": 6482,
-        "order": 78,
+        "order": 77,
         "category": "meat",
         "title": "Голубцы ленивые",
         "weight": 350,
@@ -1448,7 +1430,7 @@
     },
     {
         "id": 5119,
-        "order": 79,
+        "order": 78,
         "category": "meat",
         "title": "Фрикадельки с соусом демиглас и пюре",
         "weight": 250,
@@ -1466,7 +1448,7 @@
     },
     {
         "id": 60,
-        "order": 80,
+        "order": 79,
         "category": "meat",
         "title": "Жаркое по-домашнему",
         "weight": 300,
@@ -1484,7 +1466,7 @@
     },
     {
         "id": 6484,
-        "order": 81,
+        "order": 80,
         "category": "meat",
         "title": "Котлетки мясные с чечевицей",
         "weight": 300,
@@ -1502,7 +1484,7 @@
     },
     {
         "id": 2154,
-        "order": 82,
+        "order": 81,
         "category": "meat",
         "title": "Котлетки мясные с гречкой",
         "weight": 300,
@@ -1520,7 +1502,7 @@
     },
     {
         "id": 49,
-        "order": 83,
+        "order": 82,
         "category": "meat",
         "title": "Котлетки мясные с пюре",
         "weight": 300,
@@ -1538,7 +1520,7 @@
     },
     {
         "id": 13625,
-        "order": 84,
+        "order": 83,
         "category": "meat",
         "title": "Тефтели домашние в томатном соусе",
         "weight": 330,
@@ -1556,7 +1538,7 @@
     },
     {
         "id": 13607,
-        "order": 85,
+        "order": 84,
         "category": "meat",
         "title": "Котлетки мясные",
         "count": 4,
@@ -1578,7 +1560,7 @@
     },
     {
         "id": 69,
-        "order": 86,
+        "order": 85,
         "category": "meat",
         "title": "Бефстроганов с пюре",
         "weight": 300,
@@ -1596,7 +1578,7 @@
     },
     {
         "id": 2153,
-        "order": 87,
+        "order": 86,
         "category": "meat",
         "title": "Бефстроганов с гречкой и грибами",
         "weight": 300,
@@ -1614,7 +1596,7 @@
     },
     {
         "id": 95,
-        "order": 88,
+        "order": 87,
         "category": "fish",
         "title": "Кальмары в остром томатном соусе",
         "weight": 250,
@@ -1632,7 +1614,7 @@
     },
     {
         "id": 108,
-        "order": 89,
+        "order": 88,
         "category": "fish",
         "title": "Биточек рыбный с рисом",
         "weight": 250,
@@ -1650,7 +1632,7 @@
     },
     {
         "id": 4355,
-        "order": 90,
+        "order": 89,
         "category": "fish",
         "title": "Биточек рыбный с пюре",
         "weight": 250,
@@ -1668,7 +1650,7 @@
     },
     {
         "id": 34,
-        "order": 91,
+        "order": 90,
         "category": "fish",
         "title": "Фетучини с морепродуктами",
         "weight": 250,
@@ -1686,7 +1668,7 @@
     },
     {
         "id": 13613,
-        "order": 92,
+        "order": 91,
         "category": "fish",
         "title": "Минтай жареный с пюре",
         "weight": 280,
@@ -1703,26 +1685,8 @@
         }
     },
     {
-        "id": 5813,
-        "order": 93,
-        "category": "fish",
-        "title": "Рыба под маринадом",
-        "weight": 400,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/0da/373_245_0/0da14aadd7c68ce4a7d34505cfca1c94.webp",
-        "price": 299,
-        "link": "https://crosspack.ru/menu/ryba-pod-marinadom-400g/",
-        "ingredients": "Треска, Хек, Лук репчатый, Морковь, Томатная паста, Мука пшеничная, Масло подсолнечное, Уксус столовый 9%, Сахарный песок, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 533,
-            "protein": 35,
-            "fat": 22,
-            "carbs": 48
-        }
-    },
-    {
         "id": 13446,
-        "order": 94,
+        "order": 92,
         "category": "fish",
         "title": "Дикий лосось с овощами",
         "weight": 260,
@@ -1740,7 +1704,7 @@
     },
     {
         "id": 13448,
-        "order": 95,
+        "order": 93,
         "category": "fish",
         "title": "Дикий лосось с пюре",
         "weight": 260,
@@ -1758,7 +1722,7 @@
     },
     {
         "id": 13614,
-        "order": 96,
+        "order": 94,
         "category": "fish",
         "title": "Биточки рыбные",
         "count": 3,
@@ -1780,7 +1744,7 @@
     },
     {
         "id": 105,
-        "order": 97,
+        "order": 95,
         "category": "sidedishes",
         "title": "Запеченные овощи",
         "weight": 250,
@@ -1798,7 +1762,7 @@
     },
     {
         "id": 55,
-        "order": 98,
+        "order": 96,
         "category": "sidedishes",
         "title": "Картофель запеченный с чесночным соусом",
         "weight": 250,
@@ -1816,7 +1780,7 @@
     },
     {
         "id": 13608,
-        "order": 99,
+        "order": 97,
         "category": "sidedishes",
         "title": "Солянка из капусты с беконом",
         "weight": 300,
@@ -1834,7 +1798,7 @@
     },
     {
         "id": 6488,
-        "order": 100,
+        "order": 98,
         "category": "sidedishes",
         "title": "Чечевица с овощами",
         "weight": 200,
@@ -1852,7 +1816,7 @@
     },
     {
         "id": 71,
-        "order": 101,
+        "order": 99,
         "category": "sidedishes",
         "title": "Пюре картофельное",
         "weight": 150,
@@ -1870,7 +1834,7 @@
     },
     {
         "id": 73,
-        "order": 102,
+        "order": 100,
         "category": "sidedishes",
         "title": "Гречка",
         "weight": 150,
@@ -1888,7 +1852,7 @@
     },
     {
         "id": 13626,
-        "order": 103,
+        "order": 101,
         "category": "sidedishes",
         "title": "Булгур",
         "weight": 150,
@@ -1906,7 +1870,7 @@
     },
     {
         "id": 72,
-        "order": 104,
+        "order": 102,
         "category": "sidedishes",
         "title": "Макароны",
         "weight": 150,
@@ -1924,7 +1888,7 @@
     },
     {
         "id": 6887,
-        "order": 105,
+        "order": 103,
         "category": "dessert",
         "title": "Чизкейк с клубникой",
         "weight": 100,
@@ -1942,7 +1906,7 @@
     },
     {
         "id": 6757,
-        "order": 106,
+        "order": 104,
         "category": "dessert",
         "title": "Чизкейк кокосовый",
         "weight": 100,
@@ -1960,7 +1924,7 @@
     },
     {
         "id": 6736,
-        "order": 107,
+        "order": 105,
         "category": "dessert",
         "title": "Чизкейк шоколадный",
         "weight": 100,
@@ -1978,7 +1942,7 @@
     },
     {
         "id": 6646,
-        "order": 108,
+        "order": 106,
         "category": "dessert",
         "title": "Чизкейк манго-маракуйя",
         "weight": 125,
@@ -1996,7 +1960,7 @@
     },
     {
         "id": 6645,
-        "order": 109,
+        "order": 107,
         "category": "dessert",
         "title": "Чизкейк с малиной",
         "weight": 100,
@@ -2014,7 +1978,7 @@
     },
     {
         "id": 1870,
-        "order": 110,
+        "order": 108,
         "category": "dessert",
         "title": "Наполеон",
         "weight": 200,
@@ -2032,7 +1996,7 @@
     },
     {
         "id": 2783,
-        "order": 111,
+        "order": 109,
         "category": "dessert",
         "title": "Пирожное «Картошка»",
         "weight": 130,
@@ -2050,7 +2014,7 @@
     },
     {
         "id": 1872,
-        "order": 112,
+        "order": 110,
         "category": "dessert",
         "title": "Трубочки вафельные с вареной сгущенкой",
         "weight": 150,
@@ -2068,7 +2032,7 @@
     },
     {
         "id": 1873,
-        "order": 113,
+        "order": 111,
         "category": "dessert",
         "title": "Трубочки с кремом",
         "weight": 80,
@@ -2086,7 +2050,7 @@
     },
     {
         "id": 1871,
-        "order": 114,
+        "order": 112,
         "category": "dessert",
         "title": "Рулет бисквитный",
         "weight": 150,
@@ -2104,7 +2068,7 @@
     },
     {
         "id": 8,
-        "order": 115,
+        "order": 113,
         "category": "dessert",
         "title": "Запеканка из рикотты",
         "weight": 140,
@@ -2122,7 +2086,7 @@
     },
     {
         "id": 2160,
-        "order": 116,
+        "order": 114,
         "category": "dessert",
         "title": "Муравейник",
         "weight": 150,
@@ -2140,7 +2104,7 @@
     },
     {
         "id": 6904,
-        "order": 117,
+        "order": 115,
         "category": "drinks",
         "title": "Морс клюквенный",
         "weight": 500,
@@ -2156,7 +2120,7 @@
     },
     {
         "id": 26,
-        "order": 118,
+        "order": 116,
         "category": "drinks",
         "title": "Компот сезонный",
         "weight": 500,
@@ -2172,7 +2136,7 @@
     },
     {
         "id": 28,
-        "order": 119,
+        "order": 117,
         "category": "drinks",
         "title": "Компот облепиха",
         "weight": 500,
@@ -2188,7 +2152,7 @@
     },
     {
         "id": 4162,
-        "order": 120,
+        "order": 118,
         "category": "sets",
         "title": "394р. 4 блюда в день - 5 дней.",
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/9f5/373_245_0/9f566daff83471e374b2ea3ccf8d3339.webp",
@@ -2198,7 +2162,7 @@
     },
     {
         "id": 2849,
-        "order": 121,
+        "order": 119,
         "category": "sets",
         "title": "454р. 4 блюда в день - 5 дней.",
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/219/373_245_0/21958e3dad3235cc7319aca1a65072c8.webp",
@@ -2208,7 +2172,7 @@
     },
     {
         "id": 1937,
-        "order": 122,
+        "order": 120,
         "category": "sets",
         "title": "598р. 5 блюд в день - 5 дней.",
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/af6/373_245_0/af684dec39e8aaabc71854814a029909.webp",
@@ -2218,7 +2182,7 @@
     },
     {
         "id": 2236,
-        "order": 123,
+        "order": 121,
         "category": "sets",
         "title": "707р. 5 блюд в день - 5 дней.",
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/0e8/373_245_0/0e8e6ba04ff29ec0dcab8262c2a2434f.webp",
@@ -2228,7 +2192,7 @@
     },
     {
         "id": 2237,
-        "order": 124,
+        "order": 122,
         "category": "sets",
         "title": "813р. 5 блюд в день - 5 дней.",
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/225/373_245_0/225b1d333c0f29e9d22f39a3774cac00.webp",
@@ -2238,7 +2202,7 @@
     },
     {
         "id": 93,
-        "order": 125,
+        "order": 123,
         "category": "sets",
         "title": "893р. 5 блюд в день - 5 дней.",
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/2c6/373_245_0/2c660ede4fd57e0bbe10b71a131fb35a.webp",
@@ -2248,7 +2212,7 @@
     },
     {
         "id": 94,
-        "order": 126,
+        "order": 124,
         "category": "sets",
         "title": "1041р. 6 блюд в день - 5 дней.",
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/cd7/373_245_0/cd71b849a6b06a4791647539efa15767.webp",
@@ -2258,7 +2222,7 @@
     },
     {
         "id": 5814,
-        "order": 127,
+        "order": 125,
         "category": "sets",
         "title": "Попробовать новинки",
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/164/373_245_0/16494c00f6098f7f80fde22d79517441.webp",
@@ -2268,7 +2232,7 @@
     },
     {
         "id": 13785,
-        "order": 128,
+        "order": 126,
         "category": "barbecue",
         "title": "Цыпленок для гриля,",
         "count": 1,
@@ -2289,7 +2253,7 @@
     },
     {
         "id": 13784,
-        "order": 129,
+        "order": 127,
         "category": "barbecue",
         "title": "Ребрышки свиные,",
         "count": 2,
@@ -2310,7 +2274,7 @@
     },
     {
         "id": 13783,
-        "order": 130,
+        "order": 128,
         "category": "barbecue",
         "title": "Шашлык из свиной шеи",
         "weight": 1000,
@@ -2327,7 +2291,7 @@
     },
     {
         "id": 13482,
-        "order": 131,
+        "order": 129,
         "category": "freeze",
         "title": "Пельмени домашние с курицей",
         "weight": 1000,
@@ -2345,7 +2309,7 @@
     },
     {
         "id": 13483,
-        "order": 132,
+        "order": 130,
         "category": "freeze",
         "title": "Пельмени домашние с мясом",
         "weight": 1000,
@@ -2363,7 +2327,7 @@
     },
     {
         "id": 13489,
-        "order": 133,
+        "order": 131,
         "category": "freeze",
         "title": "Тефтели с рисом домашние",
         "weight": 1000,
@@ -2381,7 +2345,7 @@
     },
     {
         "id": 13490,
-        "order": 134,
+        "order": 132,
         "category": "freeze",
         "title": "Фрикадельки куриные домашние",
         "weight": 1000,
@@ -2399,7 +2363,7 @@
     },
     {
         "id": 13491,
-        "order": 135,
+        "order": 133,
         "category": "freeze",
         "title": "Фрикадельки с овощами домашние",
         "weight": 1000,

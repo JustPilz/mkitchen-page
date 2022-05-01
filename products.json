@@ -1301,7 +1301,7 @@
             "calories": 710,
             "protein": 63,
             "fat": 49,
-            "carbs": 15
+            "carbs": 1.5
         }
     },
     {
@@ -1868,7 +1868,7 @@
         "indicators": {
             "calories": 124,
             "protein": 5,
-            "fat": 4,
+            "fat": 0.4,
             "carbs": 28
         }
     },
@@ -2118,8 +2118,8 @@
         "ingredients": "Вода, Клюква, Сахар",
         "indicators": {
             "calories": 216,
-            "protein": 5,
-            "fat": 55
+            "protein": 0.5,
+            "carbs": 55
         }
     },
     {
@@ -2134,8 +2134,8 @@
         "ingredients": "Вода, Ягода с\\м, Сахар",
         "indicators": {
             "calories": 205,
-            "protein": 5,
-            "fat": 50
+            "protein": 0.5,
+            "carbs": 50
         }
     },
     {
@@ -2150,8 +2150,8 @@
         "ingredients": "Вода, Облепиха с\\м, Сахар",
         "indicators": {
             "calories": 165,
-            "protein": 5,
-            "fat": 40
+            "protein": 0.5,
+            "carbs": 40
         }
     },
     {
@@ -2249,7 +2249,7 @@
             "calories": 207,
             "protein": 17,
             "fat": 15,
-            "carbs": 15
+            "carbs": 1.5
         },
         "additional": {
             "caloriesPerUnit": 207,
@@ -2291,8 +2291,8 @@
         "indicators": {
             "calories": 343,
             "protein": 13,
-            "fat": 315,
-            "carbs": 15
+            "fat": 31.5,
+            "carbs": 1.5
         }
     },
     {
@@ -2309,8 +2309,8 @@
         "indicators": {
             "calories": 231,
             "protein": 15,
-            "fat": 79,
-            "carbs": 244
+            "fat": 7.9,
+            "carbs": 24.4
         }
     },
     {
@@ -2326,9 +2326,9 @@
         "expiration": "30 суток при температуре -18°",
         "indicators": {
             "calories": 238,
-            "protein": 179,
-            "fat": 91,
-            "carbs": 203
+            "protein": 17.9,
+            "fat": 9.1,
+            "carbs": 20.3
         }
     },
     {
@@ -2344,9 +2344,9 @@
         "expiration": "30 суток при температуре -18°",
         "indicators": {
             "calories": 182,
-            "protein": 155,
-            "fat": 83,
-            "carbs": 111
+            "protein": 15.5,
+            "fat": 8.3,
+            "carbs": 11.1
         }
     },
     {
@@ -2362,9 +2362,9 @@
         "expiration": "30 суток при температуре -18°",
         "indicators": {
             "calories": 216,
-            "protein": 179,
-            "fat": 109,
-            "carbs": 124
+            "protein": 17.9,
+            "fat": 10.9,
+            "carbs": 12.4
         }
     },
     {
@@ -2380,8 +2380,8 @@
         "expiration": "30 суток при температуре -18°",
         "indicators": {
             "calories": 206,
-            "protein": 191,
-            "fat": 112,
+            "protein": 19.1,
+            "fat": 11.2,
             "carbs": 7
         }
     }

@@ -16,10 +16,6 @@
             "protein": 16,
             "fat": 17,
             "carbs": 50
-        },
-        "additional": {
-            "caloriesPerUnit": 137.33,
-            "pricePerUnit": 43.33
         }
     },
     {
@@ -39,10 +35,6 @@
             "protein": 13,
             "fat": 12,
             "carbs": 68
-        },
-        "additional": {
-            "caloriesPerUnit": 146.33,
-            "pricePerUnit": 43.33
         }
     },
     {
@@ -62,10 +54,6 @@
             "protein": 11,
             "fat": 14,
             "carbs": 67
-        },
-        "additional": {
-            "caloriesPerUnit": 146,
-            "pricePerUnit": 43.33
         }
     },
     {
@@ -85,10 +73,6 @@
             "protein": 19,
             "fat": 11,
             "carbs": 68
-        },
-        "additional": {
-            "caloriesPerUnit": 147,
-            "pricePerUnit": 49.67
         }
     },
     {
@@ -108,10 +92,6 @@
             "protein": 23,
             "fat": 22,
             "carbs": 51
-        },
-        "additional": {
-            "caloriesPerUnit": 165.67,
-            "pricePerUnit": 49.67
         }
     },
     {
@@ -131,10 +111,6 @@
             "protein": 20,
             "fat": 18,
             "carbs": 53
-        },
-        "additional": {
-            "caloriesPerUnit": 153,
-            "pricePerUnit": 49.67
         }
     },
     {
@@ -154,10 +130,6 @@
             "protein": 13,
             "fat": 16,
             "carbs": 69
-        },
-        "additional": {
-            "caloriesPerUnit": 157,
-            "pricePerUnit": 49.67
         }
     },
     {
@@ -1257,10 +1229,6 @@
             "protein": 37,
             "fat": 24,
             "carbs": 22
-        },
-        "additional": {
-            "caloriesPerUnit": 115.75,
-            "pricePerUnit": 46.5
         }
     },
     {
@@ -1280,10 +1248,6 @@
             "protein": 34,
             "fat": 23,
             "carbs": 20
-        },
-        "additional": {
-            "caloriesPerUnit": 71.67,
-            "pricePerUnit": 25
         }
     },
     {
@@ -1555,10 +1519,6 @@
             "protein": 56,
             "fat": 42,
             "carbs": 25
-        },
-        "additional": {
-            "caloriesPerUnit": 179.75,
-            "pricePerUnit": 95
         }
     },
     {
@@ -1740,10 +1700,6 @@
             "protein": 33,
             "fat": 55,
             "carbs": 20
-        },
-        "additional": {
-            "caloriesPerUnit": 238.33,
-            "pricePerUnit": 115
         }
     },
     {
@@ -2250,10 +2206,6 @@
             "protein": 17,
             "fat": 15,
             "carbs": 1.5
-        },
-        "additional": {
-            "caloriesPerUnit": 207,
-            "pricePerUnit": 370
         }
     },
     {
@@ -2272,10 +2224,6 @@
             "protein": 29,
             "fat": 30,
             "carbs": 2
-        },
-        "additional": {
-            "caloriesPerUnit": 203,
-            "pricePerUnit": 290
         }
     },
     {

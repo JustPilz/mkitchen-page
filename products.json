@@ -2155,61 +2155,8 @@
         "indicators": {}
     },
     {
-        "id": "13785",
-        "order": 124,
-        "category": "barbecue",
-        "title": "Цыпленок для гриля",
-        "count": "1",
-        "weight": 900,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/c96/373_245_0/c969e7c41a222928a838aaa26ef24634.webp",
-        "price": 370,
-        "link": "https://crosspack.ru/menu/tsyplenok-dlya-grilya-1sht/",
-        "ingredients": "Цыпленок, Горчица, Соль, Специи",
-        "indicators": {
-            "calories": 207,
-            "protein": 17,
-            "fat": 15,
-            "carbs": 1.5
-        }
-    },
-    {
-        "id": "13784",
-        "order": 125,
-        "category": "barbecue",
-        "title": "Ребрышки свиные",
-        "count": "2",
-        "weight": 1500,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/24e/373_245_0/24e487e45cabd79bd7d0a08ac352951f.webp",
-        "price": 580,
-        "link": "https://crosspack.ru/menu/rebryshki-svinye-2sht/",
-        "ingredients": "Ребра свиные, Горчица, Соль, Перец Чили, Сахар, Специи",
-        "indicators": {
-            "calories": 406,
-            "protein": 29,
-            "fat": 30,
-            "carbs": 2
-        }
-    },
-    {
-        "id": "13783",
-        "order": 126,
-        "category": "barbecue",
-        "title": "Шашлык из свиной шеи",
-        "weight": 1000,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/890/373_245_0/890296ee61ff7961544429ce90f69346.webp",
-        "price": 580,
-        "link": "https://crosspack.ru/menu/shashlyk-iz-svinoy-shei-1kg/",
-        "ingredients": "Свиная шея, Лук репчатый, Соль, Специи",
-        "indicators": {
-            "calories": 343,
-            "protein": 13,
-            "fat": 31.5,
-            "carbs": 1.5
-        }
-    },
-    {
         "id": "13482",
-        "order": 127,
+        "order": 124,
         "category": "freeze",
         "title": "Пельмени домашние с курицей",
         "weight": 1000,
@@ -2227,7 +2174,7 @@
     },
     {
         "id": "13483",
-        "order": 128,
+        "order": 125,
         "category": "freeze",
         "title": "Пельмени домашние с мясом",
         "weight": 1000,
@@ -2245,7 +2192,7 @@
     },
     {
         "id": "13489",
-        "order": 129,
+        "order": 126,
         "category": "freeze",
         "title": "Тефтели с рисом домашние",
         "weight": 1000,
@@ -2263,7 +2210,7 @@
     },
     {
         "id": "13490",
-        "order": 130,
+        "order": 127,
         "category": "freeze",
         "title": "Фрикадельки куриные домашние",
         "weight": 1000,
@@ -2281,7 +2228,7 @@
     },
     {
         "id": "13491",
-        "order": 131,
+        "order": 128,
         "category": "freeze",
         "title": "Фрикадельки с овощами домашние",
         "weight": 1000,

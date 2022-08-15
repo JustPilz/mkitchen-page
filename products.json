@@ -1,7 +1,26 @@
 [
     {
-        "id": "5113",
+        "id": "51269",
         "order": 1,
+        "category": "breakfasts",
+        "title": "Блинчики с яблоком",
+        "count": 3,
+        "weight": 225,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/8a9/373_245_0/8a962a5ddd7179b236531fdb85bd14e9.webp",
+        "price": 130,
+        "link": "https://crosspack.ru/menu/blinchiki-s-yablokom-225g/",
+        "ingredients": "Мука пшеничная хлебопекарная в/c, Яйцо куриное, Молоко 2,5%, Масло подсолнечное, Яблоки, Мед, Сахар, Соль",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 465,
+            "protein": 7,
+            "fat": 8,
+            "carbs": 69
+        }
+    },
+    {
+        "id": "5113",
+        "order": 2,
         "category": "breakfasts",
         "title": "Блинчики со сгущенкой",
         "count": 3,
@@ -20,7 +39,7 @@
     },
     {
         "id": "56",
-        "order": 2,
+        "order": 3,
         "category": "breakfasts",
         "title": "Блинчики с джемом и сметаной",
         "count": 3,
@@ -28,7 +47,7 @@
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/014/373_245_0/01433f9207f3fedb143510a320f18632.webp",
         "price": 130,
         "link": "https://crosspack.ru/menu/blinchiki-s-dzhemom-i-smetanoy-210gr/",
-        "ingredients": "Мука пшеничная хлебопекарная в/c, Яйцо куриное, Молоко 2,5%, Масло подсолнечное, Сметана 20%, Джем ягодный, Сахар, Соль",
+        "ingredients": "Мука пшеничная хлебопекарная в/c, Яйцо куриное, Молоко 2,5%, Масло подсолнечное, Сметана 15%, Джем ягодный, Сахар, Соль",
         "expiration": "5 суток",
         "indicators": {
             "calories": 438,
@@ -39,7 +58,7 @@
     },
     {
         "id": "3",
-        "order": 3,
+        "order": 4,
         "category": "breakfasts",
         "title": "Блинчики творожные",
         "count": 3,
@@ -54,25 +73,6 @@
             "protein": 19,
             "fat": 11,
             "carbs": 68
-        }
-    },
-    {
-        "id": "13605",
-        "order": 4,
-        "category": "breakfasts",
-        "title": "Блинчики с капустой и беконом",
-        "count": 3,
-        "weight": 225,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/3c8/373_245_0/3c8dffd83a1613282c5dc695c4b42c73.webp",
-        "price": 130,
-        "link": "https://crosspack.ru/menu/blinchiki-s-kapustoy-i-bekonom-225g/",
-        "ingredients": "Капуста белокочанная, Бекон, Мука пшеничная, Молоко 2,5%, Яйцо куриное, Лук репчатый, Масло подсолнечное, Сахар, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 412,
-            "protein": 16,
-            "fat": 17,
-            "carbs": 50
         }
     },
     {
@@ -141,7 +141,7 @@
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/d57/373_245_0/d57a9a14d9e3ec845901a11a81951062.webp",
         "price": 150,
         "link": "https://crosspack.ru/menu/draniki-so-smetanoy-200g/",
-        "ingredients": "Картофель, Яйцо куриное, Мука пшеничная, Сметана 20%, Масло подсолнечное, Соль",
+        "ingredients": "Картофель, Яйцо куриное, Мука пшеничная, Сметана 15%, Масло подсолнечное, Соль",
         "expiration": "5 суток",
         "indicators": {
             "calories": 353,
@@ -228,7 +228,7 @@
         "category": "breakfasts",
         "title": "Каша пшенная с клубничным джемом",
         "weight": 300,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/aac/373_245_0/aacd95c6f81c0b39cac09240d963acc1.webp",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/33b/373_245_0/33bab074cebe9c7f57cf72f617ff6e7f.webp",
         "price": 85,
         "link": "https://crosspack.ru/menu/kasha-pshennaya-s-klubnichnim-dzhemom-300gr/",
         "ingredients": "Крупа Пшено, Молоко 2,5 %, Джем клубничный, Сахар, Соль",
@@ -313,33 +313,15 @@
         }
     },
     {
-        "id": "5114",
-        "order": 18,
-        "category": "breakfasts",
-        "title": "Сырники со сгущенкой",
-        "weight": 180,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/a95/373_245_0/a954af6ca73194001f552ce8371d639e.webp",
-        "price": 185,
-        "link": "https://crosspack.ru/menu/syrniki-so-sgushchenkoy-180g/",
-        "ingredients": "Творог, Заменитель молочного жира, Сгущенное молоко, Сахар, Мука из твердых сортов пшеницы, Крахмал картофельный, Масло подсолнечное, Пшеничная клетчатка, Соль.",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 445,
-            "protein": 11,
-            "fat": 20,
-            "carbs": 56
-        }
-    },
-    {
         "id": "39",
-        "order": 19,
+        "order": 18,
         "category": "breakfasts",
         "title": "Сырники от шефа с изюмом",
         "weight": 230,
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/def/373_245_0/defdf9a6ef01266a838d8ed118153014.webp",
         "price": 165,
         "link": "https://crosspack.ru/menu/syrniki-ot-shefa-s-izyumom-230gr/",
-        "ingredients": "Творожный продукт, Яйцо куриное, Манка, Соус черная смородина, Мука пшеничная, Сахар, Соль",
+        "ingredients": "Творожный продукт, Яйцо куриное, Манка, Брусника, Крахмал картофельный, Мука пшеничная, Сахар, Соль",
         "expiration": "5 суток",
         "indicators": {
             "calories": 410,
@@ -350,7 +332,7 @@
     },
     {
         "id": "41",
-        "order": 20,
+        "order": 19,
         "category": "breakfasts",
         "title": "Клаб сэндвич от Михайлика",
         "weight": 270,
@@ -368,7 +350,7 @@
     },
     {
         "id": "4043",
-        "order": 21,
+        "order": 20,
         "category": "breakfasts",
         "title": "Омлет с ветчиной и овощами",
         "weight": 200,
@@ -386,7 +368,7 @@
     },
     {
         "id": "16",
-        "order": 22,
+        "order": 21,
         "category": "breakfasts",
         "title": "Вареники с картофелем",
         "weight": 200,
@@ -404,7 +386,7 @@
     },
     {
         "id": "11",
-        "order": 23,
+        "order": 22,
         "category": "salad",
         "title": "Салат Витаминный",
         "weight": 120,
@@ -422,7 +404,7 @@
     },
     {
         "id": "110",
-        "order": 24,
+        "order": 23,
         "category": "salad",
         "title": "Салат «Табуле»",
         "weight": 150,
@@ -440,7 +422,7 @@
     },
     {
         "id": "2162",
-        "order": 25,
+        "order": 24,
         "category": "salad",
         "title": "Салат Коул слоу",
         "weight": 140,
@@ -457,44 +439,26 @@
         }
     },
     {
-        "id": "5116",
-        "order": 26,
+        "id": "50463",
+        "order": 25,
         "category": "salad",
-        "title": "Салат Морковь с чесноком и майонезом",
+        "title": "Салат с фасолью",
         "weight": 200,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/b65/373_245_0/b65b05a0be70cadb20d098e2c3f85235.webp",
-        "price": 98,
-        "link": "https://crosspack.ru/menu/salat-morkov-s-chesnokom-i-mayonezom-200g/",
-        "ingredients": "Морковь, Майонез, Чеснок, Соль",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/d87/373_245_0/d87850220d3f30022c0831b50534a0a3.webp",
+        "price": 198,
+        "link": "https://crosspack.ru/menu/salat-s-fasolyu-200g/",
+        "ingredients": "Курица, Фасоль красная консервированная, Грецкий орех, Масло подсолнечное, Майонез, Хрен сливочный, Чеснок, Соль, Специи",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 280,
-            "protein": 2,
-            "fat": 19,
-            "carbs": 29
-        }
-    },
-    {
-        "id": "5117",
-        "order": 27,
-        "category": "salad",
-        "title": "Салат свекла с чесноком и грецким орехом",
-        "weight": 200,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/5a4/373_245_0/5a4700c2a8751e103e33abc19c92a6df.webp",
-        "price": 135,
-        "link": "https://crosspack.ru/menu/salat-svekla-s-chesnokom-i-gretskim-orekhom-200g/",
-        "ingredients": "Свекла, Майонез, Чеснок, Грецкий орех, Соль",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 287,
-            "protein": 5,
-            "fat": 19,
-            "carbs": 26
+            "calories": 325,
+            "protein": 19,
+            "fat": 17,
+            "carbs": 25
         }
     },
     {
         "id": "4353",
-        "order": 28,
+        "order": 26,
         "category": "salad",
         "title": "Салат Винегрет",
         "weight": 250,
@@ -512,7 +476,7 @@
     },
     {
         "id": "6779",
-        "order": 29,
+        "order": 27,
         "category": "salad",
         "title": "Салат с тунцом",
         "weight": 220,
@@ -530,7 +494,7 @@
     },
     {
         "id": "4046",
-        "order": 30,
+        "order": 28,
         "category": "salad",
         "title": "Салат с курицей и соусом Коктейль",
         "weight": 265,
@@ -548,7 +512,7 @@
     },
     {
         "id": "2163",
-        "order": 31,
+        "order": 29,
         "category": "salad",
         "title": "Салат с курицей в горчичном соусе",
         "weight": 145,
@@ -566,7 +530,7 @@
     },
     {
         "id": "14",
-        "order": 32,
+        "order": 30,
         "category": "salad",
         "title": "Салат Оливье с ветчиной",
         "weight": 200,
@@ -584,7 +548,7 @@
     },
     {
         "id": "5812",
-        "order": 33,
+        "order": 31,
         "category": "salad",
         "title": "Салат Нисуаз",
         "weight": 220,
@@ -602,7 +566,7 @@
     },
     {
         "id": "5",
-        "order": 34,
+        "order": 32,
         "category": "salad",
         "title": "Салат «Цезарь» с курицей",
         "weight": 200,
@@ -620,7 +584,7 @@
     },
     {
         "id": "6",
-        "order": 35,
+        "order": 33,
         "category": "salad",
         "title": "Салат «Цезарь» с креветкой",
         "weight": 180,
@@ -638,7 +602,7 @@
     },
     {
         "id": "7",
-        "order": 36,
+        "order": 34,
         "category": "salad",
         "title": "Салат с куриной печенью в медово-горчичной заправке",
         "weight": 200,
@@ -656,7 +620,7 @@
     },
     {
         "id": "10",
-        "order": 37,
+        "order": 35,
         "category": "salad",
         "title": "Салат Греческий",
         "weight": 200,
@@ -673,8 +637,26 @@
         }
     },
     {
+        "id": "51837",
+        "order": 36,
+        "category": "salad",
+        "title": "Салат Атлантида",
+        "weight": 200,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/c55/373_245_0/c55a983cf73f9718cc01e0e845433353.webp",
+        "price": 213,
+        "link": "https://crosspack.ru/menu/salat-atlantida-200g/",
+        "ingredients": "Кальмары, Салат айсберг, Перец болгарский, Огурцы свежие, Лимон, Соус терияки, Соус соевый, Кунжут, Соль",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 94,
+            "protein": 11,
+            "fat": 2,
+            "carbs": 9
+        }
+    },
+    {
         "id": "54",
-        "order": 38,
+        "order": 37,
         "category": "salad",
         "title": "Салат Фунчоза с курицей",
         "weight": 170,
@@ -691,8 +673,44 @@
         }
     },
     {
-        "id": "6780",
+        "id": "51270",
+        "order": 38,
+        "category": "soup",
+        "title": "Щи зеленые",
+        "weight": 350,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/571/373_245_0/5712a3096b9fd1d2e5a9aaa27849d030.webp",
+        "price": 130,
+        "link": "https://crosspack.ru/menu/shchi-zelenye-350g/",
+        "ingredients": "Картофель, Курица, Шпинат, Лук репчатый, Морковь, Яйцо куриное, Лимон, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 156,
+            "protein": 9,
+            "fat": 6,
+            "carbs": 18
+        }
+    },
+    {
+        "id": "50470",
         "order": 39,
+        "category": "soup",
+        "title": "Окрошка на квасе",
+        "weight": 450,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/258/373_245_0/25842159040c0b115c77621098a738da.webp",
+        "price": 168,
+        "link": "https://crosspack.ru/menu/okroshka-na-kvase-450g/",
+        "ingredients": "Колбаса докторская, Картофель, Огурцы свежие, Яйцо куриное, Укроп, Хрен, Горчица, Квас, Соль",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 320,
+            "protein": 11,
+            "fat": 11,
+            "carbs": 38
+        }
+    },
+    {
+        "id": "6780",
+        "order": 40,
         "category": "soup",
         "title": "Суп с фрикадельками",
         "weight": 350,
@@ -706,24 +724,6 @@
             "protein": 14,
             "fat": 4,
             "carbs": 22
-        }
-    },
-    {
-        "id": "57",
-        "order": 40,
-        "category": "soup",
-        "title": "Суп «Минестроне»",
-        "weight": 350,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/280/373_245_0/280b5250df913e55b690d973ba78906f.webp",
-        "price": 130,
-        "link": "https://crosspack.ru/menu/sup-minestrone-350g/",
-        "ingredients": "Картофель, Капуста цветная, Брокколи, Лук, Морковь, Баклажаны, Кабачки, Помидоры Черри, Чеснок, Перец чили, Масло подсолнечное, Соль",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 107,
-            "protein": 3,
-            "fat": 6,
-            "carbs": 12
         }
     },
     {
@@ -781,21 +781,21 @@
         }
     },
     {
-        "id": "5811",
+        "id": "50464",
         "order": 44,
         "category": "soup",
-        "title": "Рассольник",
+        "title": "Суп «Гуляш»",
         "weight": 350,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/123/373_245_0/1234992e15049dc9bc2d945db9dd2fb6.webp",
-        "price": 185,
-        "link": "https://crosspack.ru/menu/rassolnik-350g/",
-        "ingredients": "Курица, Картофель, Лук репчатый, Морковь, Булгур, Огурцы консервированные, Соль, Специи",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/afa/373_245_0/afa947db014bd128122a72b679d58c7c.webp",
+        "price": 168,
+        "link": "https://crosspack.ru/menu/sup-gulyash-350g/",
+        "ingredients": "Говядина, Картофель, Лук репчатый, Морковь, Перец болгарский, Томатная паста,",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 237,
-            "protein": 11,
-            "fat": 9,
-            "carbs": 28
+            "calories": 201,
+            "protein": 12,
+            "fat": 8,
+            "carbs": 20
         }
     },
     {
@@ -871,26 +871,8 @@
         }
     },
     {
-        "id": "6485",
-        "order": 49,
-        "category": "chicken",
-        "title": "Котлетки куриные с чечевицей",
-        "weight": 300,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/cd4/373_245_0/cd425d8a1e74dd9849aa6458477f6001.webp",
-        "price": 165,
-        "link": "https://crosspack.ru/menu/kotletki-kurinye-s-chechevitsey-300g/",
-        "ingredients": "Курица, Чечевица зеленая, Хлеб пшеничный, Морковь, Лук репчатый, Масло подсолнечное, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 448,
-            "protein": 40,
-            "fat": 8,
-            "carbs": 54
-        }
-    },
-    {
         "id": "19",
-        "order": 50,
+        "order": 49,
         "category": "chicken",
         "title": "Курица в сливках с гречкой",
         "weight": 200,
@@ -904,6 +886,24 @@
             "protein": 23,
             "fat": 12,
             "carbs": 21
+        }
+    },
+    {
+        "id": "6485",
+        "order": 50,
+        "category": "chicken",
+        "title": "Котлетки куриные с чечевицей",
+        "weight": 300,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/cd4/373_245_0/cd425d8a1e74dd9849aa6458477f6001.webp",
+        "price": 165,
+        "link": "https://crosspack.ru/menu/kotletki-kurinye-s-chechevitsey-300g/",
+        "ingredients": "Курица, Чечевица зеленая, Хлеб пшеничный, Морковь, Лук репчатый, Масло подсолнечное, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 448,
+            "protein": 40,
+            "fat": 8,
+            "carbs": 54
         }
     },
     {
@@ -943,21 +943,21 @@
         }
     },
     {
-        "id": "13981",
+        "id": "51839",
         "order": 53,
         "category": "chicken",
-        "title": "Индейка на пару",
-        "weight": 150,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/e7a/373_245_0/e7af71790a058d7290e954c4c6023dee.webp",
-        "price": 195,
-        "link": "https://crosspack.ru/menu/indeyka-na-paru-150g/",
-        "ingredients": "Индейка, Масло подсолнечное, Соль, Специи",
+        "title": "Карри из индейки с булгуром",
+        "weight": 300,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/523/373_245_0/523e50a870ca625307e2b2c9ede03ba1.webp",
+        "price": 185,
+        "link": "https://crosspack.ru/menu/karri-iz-indeyki-s-bulgurom-300g/",
+        "ingredients": "Индейка, Лук репчатый, Перец болгарский, Шпинат, Сливки 22%, Крахмал картофельный, Масло подсолнечное, Соль, Специи ",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 135,
-            "protein": 29,
-            "fat": 1.5,
-            "carbs": 0.4
+            "calories": 356,
+            "protein": 19,
+            "fat": 18,
+            "carbs": 34
         }
     },
     {
@@ -979,8 +979,26 @@
         }
     },
     {
-        "id": "13979",
+        "id": "13981",
         "order": 55,
+        "category": "chicken",
+        "title": "Индейка на пару",
+        "weight": 150,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/e7a/373_245_0/e7af71790a058d7290e954c4c6023dee.webp",
+        "price": 195,
+        "link": "https://crosspack.ru/menu/indeyka-na-paru-150g/",
+        "ingredients": "Индейка, Масло подсолнечное, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 135,
+            "protein": 29,
+            "fat": 1.5,
+            "carbs": 0.4
+        }
+    },
+    {
+        "id": "13979",
+        "order": 56,
         "category": "chicken",
         "title": "Курица на пару с булгуром",
         "weight": 300,
@@ -998,7 +1016,7 @@
     },
     {
         "id": "13980",
-        "order": 56,
+        "order": 57,
         "category": "chicken",
         "title": "Курица на пару с гречкой",
         "weight": 300,
@@ -1016,7 +1034,7 @@
     },
     {
         "id": "13982",
-        "order": 57,
+        "order": 58,
         "category": "chicken",
         "title": "Индейка на пару с булгуром",
         "weight": 300,
@@ -1034,7 +1052,7 @@
     },
     {
         "id": "13983",
-        "order": 58,
+        "order": 59,
         "category": "chicken",
         "title": "Индейка на пару с гречкой",
         "weight": 300,
@@ -1051,80 +1069,8 @@
         }
     },
     {
-        "id": "6778",
-        "order": 59,
-        "category": "chicken",
-        "title": "Лазанья с курицей и овощами",
-        "weight": 300,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/1fe/373_245_0/1fe1caec6bb592342414027a4649f291.webp",
-        "price": 295,
-        "link": "https://crosspack.ru/menu/lazanya-s-kuritsey-i-ovoshchami-300g/",
-        "ingredients": "Куриное филе, Листы для лазаньи, Соус Бешамель, Томатная паста, Лук репчатый, Морковь, Сыр моцарелла, Фасоль стручковая,  Сыр Пармезан, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 464,
-            "protein": 41,
-            "fat": 15,
-            "carbs": 40
-        }
-    },
-    {
-        "id": "6486",
-        "order": 60,
-        "category": "chicken",
-        "title": "Курица по-неаполитански с картофелем",
-        "weight": 380,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/15e/373_245_0/15ec484207a301498a88bab162ec84fb.webp",
-        "price": 249,
-        "link": "https://crosspack.ru/menu/kuritsa-po-neopolitanski-380g/",
-        "ingredients": "Курица, Картофель, Яйцо куриное, Сыр пармезан, Томаты в собственном соку, Морковь, Лук репчатый, Сухари панировочные, Мука пшеничная, Масло подсолнечное, Чеснок, Сахар, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 675,
-            "protein": 38,
-            "fat": 44,
-            "carbs": 34
-        }
-    },
-    {
-        "id": "2397",
-        "order": 61,
-        "category": "chicken",
-        "title": "Курица по-тайски",
-        "weight": 250,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/ea0/373_245_0/ea0861946a1831c08e6e905078dd5465.webp",
-        "price": 178,
-        "link": "https://crosspack.ru/menu/kuritsa-po-tayski-250g/",
-        "ingredients": "Курица, Вермишель, Перец болгарский, Лук репчатый, Морковь, Соус Терияки, Масло подсолнечное, Крахмал картофельный, Перец чили, Кунжут белый",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 369,
-            "protein": 29,
-            "fat": 9,
-            "carbs": 43
-        }
-    },
-    {
-        "id": "2155",
-        "order": 62,
-        "category": "chicken",
-        "title": "Котлета куриная с пюре и соусом бешамель",
-        "weight": 220,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/a82/373_245_0/a8232a5f88e638fd63da2fcd0e9bb1a9.webp",
-        "price": 174,
-        "link": "https://crosspack.ru/menu/kotleta-kurinaya-s-pyure-i-sousom-beshamel-220gr/",
-        "ingredients": "Курица, Картофельное пюре (Картофель, Молоко 2,5 %, Масло сливочное, Соль), Соус Бешамель, Лук, Сыр Гауда, Хлеб, Грибы шампиньоны, Масло подсолнечное, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 338,
-            "protein": 23,
-            "fat": 16,
-            "carbs": 26
-        }
-    },
-    {
         "id": "2004",
-        "order": 63,
+        "order": 60,
         "category": "chicken",
         "title": "Котлета куриная с гречкой и соусом бешамель",
         "weight": 220,
@@ -1141,8 +1087,116 @@
         }
     },
     {
-        "id": "13984",
+        "id": "2155",
+        "order": 61,
+        "category": "chicken",
+        "title": "Котлета куриная с пюре и соусом бешамель",
+        "weight": 220,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/a82/373_245_0/a8232a5f88e638fd63da2fcd0e9bb1a9.webp",
+        "price": 174,
+        "link": "https://crosspack.ru/menu/kotleta-kurinaya-s-pyure-i-sousom-beshamel-220gr/",
+        "ingredients": "Курица, Картофельное пюре (Картофель, Молоко 2,5 %, Масло сливочное, Соль), Соус Бешамель, Лук, Сыр Гауда, Хлеб, Грибы шампиньоны, Масло подсолнечное, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 338,
+            "protein": 23,
+            "fat": 16,
+            "carbs": 26
+        }
+    },
+    {
+        "id": "2397",
+        "order": 62,
+        "category": "chicken",
+        "title": "Курица по-тайски",
+        "weight": 250,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/ea0/373_245_0/ea0861946a1831c08e6e905078dd5465.webp",
+        "price": 178,
+        "link": "https://crosspack.ru/menu/kuritsa-po-tayski-250g/",
+        "ingredients": "Курица, Вермишель, Перец болгарский, Лук репчатый, Морковь, Соус Терияки, Масло подсолнечное, Крахмал картофельный, Перец чили, Кунжут белый",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 369,
+            "protein": 29,
+            "fat": 9,
+            "carbs": 43
+        }
+    },
+    {
+        "id": "6486",
+        "order": 63,
+        "category": "chicken",
+        "title": "Курица по-неаполитански с картофелем",
+        "weight": 380,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/15e/373_245_0/15ec484207a301498a88bab162ec84fb.webp",
+        "price": 249,
+        "link": "https://crosspack.ru/menu/kuritsa-po-neopolitanski-380g/",
+        "ingredients": "Курица, Картофель, Яйцо куриное, Сыр пармезан, Томаты в собственном соку, Морковь, Лук репчатый, Сухари панировочные, Мука пшеничная, Масло подсолнечное, Чеснок, Сахар, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 675,
+            "protein": 38,
+            "fat": 44,
+            "carbs": 34
+        }
+    },
+    {
+        "id": "51273",
         "order": 64,
+        "category": "chicken",
+        "title": "Фетучини с курицей",
+        "weight": 250,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/172/373_245_0/172db91e35988179bb81e85a46ba13e1.webp",
+        "price": 280,
+        "link": "https://crosspack.ru/menu/fetuchini-s-kuritsey-250g/",
+        "ingredients": "Курица, Фетучини, Шпинат, Томаты вяленые, Сливки 22%, Сыр пармезан, Масло подсолнечное, Соль",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 367,
+            "protein": 21,
+            "fat": 14,
+            "carbs": 37
+        }
+    },
+    {
+        "id": "51271",
+        "order": 65,
+        "category": "chicken",
+        "title": "Куриная грудка с овощами",
+        "weight": 280,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/1d4/373_245_0/1d48f39dc6f02f72c1b697f975bafbb8.webp",
+        "price": 295,
+        "link": "https://crosspack.ru/menu/kurinaya-grudka-s-ovoshchami-syrom-i-tomatami-280g/",
+        "ingredients": "Курица, Сыр сиртаки, Сыр гауда, Томаты свежие, Майонез, Специи, Овощи запеченные (Брокколи, Капуста цветная, Грибы шампиньоны, Морковь, Фасоль стручковая, Лук репчатый, Масло подсолнечное, Соль, Специи)",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 256,
+            "protein": 29,
+            "fat": 10,
+            "carbs": 15
+        }
+    },
+    {
+        "id": "51272",
+        "order": 66,
+        "category": "chicken",
+        "title": "Куриная грудка с пюре",
+        "weight": 280,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/39b/373_245_0/39b78ce586a4401cdc2ea23eaae06abf.webp",
+        "price": 295,
+        "link": "https://crosspack.ru/menu/kurinaya-grudka-s-pyure-syrom-i-tomatami-280g/",
+        "ingredients": "Курица, Сыр сиртаки, Сыр гауда, Томаты свежие, Майонез, Специи, Картофель, Молоко 2,5 %, Масло сливочное, Соль",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 351,
+            "protein": 28,
+            "fat": 14,
+            "carbs": 26
+        }
+    },
+    {
+        "id": "13984",
+        "order": 67,
         "category": "chicken",
         "title": "Сердечки в сливочном соусе",
         "weight": 300,
@@ -1160,7 +1214,7 @@
     },
     {
         "id": "13985",
-        "order": 65,
+        "order": 68,
         "category": "chicken",
         "title": "Сердечки с гречкой в сливочном соусе",
         "weight": 350,
@@ -1177,26 +1231,8 @@
         }
     },
     {
-        "id": "13986",
-        "order": 66,
-        "category": "chicken",
-        "title": "Сердечки с пюре в сливочном соусе",
-        "weight": 350,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/528/373_245_0/528d647961e58f26040bda22a196d05a.webp",
-        "price": 188,
-        "link": "https://crosspack.ru/menu/serdechki-s-pyure-v-slivochnom-souse-350g/",
-        "ingredients": "Сердца куриные, Лук репчатый, Морковь, Картофель, Молоко 2,5%, Масло сливочное, Сливки 22%, Крахмал картофельный, Соль Специи.",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 445,
-            "protein": 18,
-            "fat": 25,
-            "carbs": 35
-        }
-    },
-    {
         "id": "104",
-        "order": 67,
+        "order": 69,
         "category": "chicken",
         "title": "Запеченный окорочок с картофелем",
         "weight": 250,
@@ -1213,98 +1249,26 @@
         }
     },
     {
-        "id": "2157",
-        "order": 68,
-        "category": "chicken",
-        "title": "Куриная печень с гречкой",
-        "weight": 250,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/fd1/373_245_0/fd124722bfc2b9f579a647f9fda1f713.webp",
-        "price": 135,
-        "link": "https://crosspack.ru/menu/kurinaya-pechen-s-grechkoy-250gr/",
-        "ingredients": "Куриная печень, Крупа гречневая, Масло подсолнечное, Лук репчатый, Специи, Соль, Перец",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 306,
-            "protein": 24,
-            "fat": 10,
-            "carbs": 30
-        }
-    },
-    {
-        "id": "96",
-        "order": 69,
-        "category": "chicken",
-        "title": "Куриная печень с булгуром",
-        "weight": 250,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/fd4/373_245_0/fd434477aba469777bfdf139465affc5.webp",
-        "price": 135,
-        "link": "https://crosspack.ru/menu/kurinaya-pechen-s-bulgurom-250gr/",
-        "ingredients": "Куриная печень, Булгур, Масло подсолнечное, Лук репчатый, Специи, Соль, Перец",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 260,
-            "protein": 18,
-            "fat": 8,
-            "carbs": 31
-        }
-    },
-    {
-        "id": "52",
+        "id": "13986",
         "order": 70,
         "category": "chicken",
-        "title": "Соба с курицей",
-        "weight": 250,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/54b/373_245_0/54b61b076682a2ec3fed4ab077754f65.webp",
-        "price": 165,
-        "link": "https://crosspack.ru/menu/soba-s-kuritsey-250g/",
-        "ingredients": "Соба, Куриное филе, Лук репчатый, Морковь, Горошек конс., Фасоль стручковая, Масло подсолнечное, Соус Терияки, Чеснок, Зелень, Кунжут белый, Перец",
+        "title": "Сердечки с пюре в сливочном соусе",
+        "weight": 350,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/528/373_245_0/528d647961e58f26040bda22a196d05a.webp",
+        "price": 188,
+        "link": "https://crosspack.ru/menu/serdechki-s-pyure-v-slivochnom-souse-350g/",
+        "ingredients": "Сердца куриные, Лук репчатый, Морковь, Картофель, Молоко 2,5%, Масло сливочное, Сливки 22%, Крахмал картофельный, Соль Специи.",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 327,
-            "protein": 23,
-            "fat": 13,
-            "carbs": 37
-        }
-    },
-    {
-        "id": "2778",
-        "order": 71,
-        "category": "chicken",
-        "title": "Киш «Жульен»",
-        "weight": 180,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/1b9/373_245_0/1b9ca44092a9d1229e559f9f160e0449.webp",
-        "price": 174,
-        "link": "https://crosspack.ru/menu/kish-zhulen-180gr/",
-        "ingredients": "Шампиньоны, Курица, Тесто (Мука пшеничная, Маргарин, Соль), Лук репчатый, Соус Бешамель, Сыр Гауда",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 449,
-            "protein": 14,
-            "fat": 24,
-            "carbs": 45
-        }
-    },
-    {
-        "id": "17",
-        "order": 72,
-        "category": "chicken",
-        "title": "Киш с курицей",
-        "weight": 180,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/2f4/373_245_0/2f4b02af63e0978638b40407f7163130.webp",
-        "price": 174,
-        "link": "https://crosspack.ru/menu/kish-s-kuritsey-180gr/",
-        "ingredients": "Куриная грудка, Тесто (Мука пшеничная, Маргарин, Соль), Лук репчатый, Соус Бешамель (Масло подсолнечное, Масло сливочное, Мука пшеничная, Молоко 2,5%, Соль), Специи, Соль",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 396,
-            "protein": 20,
+            "calories": 445,
+            "protein": 18,
             "fat": 25,
-            "carbs": 22
+            "carbs": 35
         }
     },
     {
         "id": "13610",
-        "order": 73,
+        "order": 71,
         "category": "chicken",
         "title": "Котлетки куриные",
         "count": "4",
@@ -1323,7 +1287,7 @@
     },
     {
         "id": "13611",
-        "order": 74,
+        "order": 72,
         "category": "chicken",
         "title": "Паровые котлеты",
         "count": "6",
@@ -1341,26 +1305,8 @@
         }
     },
     {
-        "id": "13609",
-        "order": 75,
-        "category": "chicken",
-        "title": "Лобио",
-        "weight": 350,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/ab3/373_245_0/ab3b0eb5f8811df22b1f8f2a63b36dd4.webp",
-        "price": 280,
-        "link": "https://crosspack.ru/menu/lobio-350g/",
-        "ingredients": "Курица, Фасоль консервированная красная, Лук репчатый, Морковь, Перец чили, Грецкий орех, Томатная паста, Масло подсолнечное, Зелень, Сахар, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 431,
-            "protein": 26,
-            "fat": 23,
-            "carbs": 33
-        }
-    },
-    {
         "id": "59",
-        "order": 76,
+        "order": 73,
         "category": "meat",
         "title": "Тефтели с гречкой",
         "weight": 300,
@@ -1378,7 +1324,7 @@
     },
     {
         "id": "58",
-        "order": 77,
+        "order": 74,
         "category": "meat",
         "title": "Спагетти с фрикадельками",
         "weight": 300,
@@ -1396,7 +1342,7 @@
     },
     {
         "id": "24",
-        "order": 78,
+        "order": 75,
         "category": "meat",
         "title": "Спагетти Карбонара",
         "weight": 300,
@@ -1413,44 +1359,26 @@
         }
     },
     {
-        "id": "6482",
-        "order": 79,
+        "id": "51838",
+        "order": 76,
         "category": "meat",
-        "title": "Голубцы ленивые",
-        "weight": 350,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/e04/373_245_0/e04c752b4c338c31ecf6c9e7d52f68bd.webp",
-        "price": 225,
-        "link": "https://crosspack.ru/menu/golubtsy-lenivye-350g/",
-        "ingredients": "Говядина, Свинина, Рис, Капуста, Томатная паста, Хлеб, Соль, Специи",
+        "title": "Паста Болоньезе",
+        "weight": 300,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/fcd/373_245_0/fcdaebf6f1553333d58609c7f50dc834.webp",
+        "price": 179,
+        "link": "https://crosspack.ru/menu/pasta-boloneze-300g/",
+        "ingredients": "Говядина, Свинина, Спагетти из твердых сортов, Лук репчатый, Морковь, Томаты в собственном соку, Томатная паста, Сыр пармезан, Масло подсолнечное, Сахар, Соль, Специи",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 761,
-            "protein": 40,
-            "fat": 55,
-            "carbs": 27
-        }
-    },
-    {
-        "id": "5119",
-        "order": 80,
-        "category": "meat",
-        "title": "Фрикадельки с соусом демиглас и пюре",
-        "weight": 250,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/db2/373_245_0/db2349e1c93c8de38bf28b832272f0b0.webp",
-        "price": 203,
-        "link": "https://crosspack.ru/menu/frikadelki-s-sousom-demiglas-i-pyure-250g/",
-        "ingredients": "Картофель, Говядина, Свинина, Курица, Соус Демиглас, Молоко 2,5 %, Масло сливочное, Масло подсолнечное, Соль",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 396,
-            "protein": 10,
-            "fat": 25,
-            "carbs": 35
+            "calories": 365,
+            "protein": 15,
+            "fat": 10,
+            "carbs": 54
         }
     },
     {
         "id": "60",
-        "order": 81,
+        "order": 77,
         "category": "meat",
         "title": "Жаркое по-домашнему",
         "weight": 300,
@@ -1464,6 +1392,78 @@
             "protein": 13,
             "fat": 29,
             "carbs": 29
+        }
+    },
+    {
+        "id": "51835",
+        "order": 78,
+        "category": "meat",
+        "title": "Котлета Пожарская",
+        "weight": 230,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/ab4/373_245_0/ab40e31194486240235796d842b51c0c.webp",
+        "price": 199,
+        "link": "https://crosspack.ru/menu/kotleta-pozharskaya-230g/",
+        "ingredients": "Говядина, Свинина, Индейка, Яйцо куриное, Лук репчатый, Хлеб, Масло подсолнечное, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 465,
+            "protein": 34,
+            "fat": 18,
+            "carbs": 38
+        }
+    },
+    {
+        "id": "51834",
+        "order": 79,
+        "category": "meat",
+        "title": "Фрикадельки с соусом демиглас",
+        "weight": 330,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/7d9/373_245_0/7d948e44804a0cd29aad7feb95807909.webp",
+        "price": 239,
+        "link": "https://crosspack.ru/menu/frikadelki-s-sousom-demiglas-330g/",
+        "ingredients": "Говядина, Свинина, Курица, Соус Демиглас, Лук репчатый, Морковь, Яйцо куриное, Масло подсолнечное, Сухари панировочные, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 703,
+            "protein": 23,
+            "fat": 56,
+            "carbs": 36
+        }
+    },
+    {
+        "id": "51833",
+        "order": 80,
+        "category": "meat",
+        "title": "Рулетики в ветчине",
+        "weight": 250,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/040/373_245_0/0405f3b8838885a6c724a53db2df641a.webp",
+        "price": 235,
+        "link": "https://crosspack.ru/menu/ruletiki-v-vetchine-250g/",
+        "ingredients": "Ветчина, Сыр гауда, Майонез, Чеснок свежий, Зелень петрушки, Соль",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 626,
+            "protein": 42,
+            "fat": 45,
+            "carbs": 13
+        }
+    },
+    {
+        "id": "5119",
+        "order": 81,
+        "category": "meat",
+        "title": "Фрикадельки с соусом демиглас и пюре",
+        "weight": 250,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/db2/373_245_0/db2349e1c93c8de38bf28b832272f0b0.webp",
+        "price": 203,
+        "link": "https://crosspack.ru/menu/frikadelki-s-sousom-demiglas-i-pyure-250g/",
+        "ingredients": "Картофель, Говядина, Свинина, Курица, Соус Демиглас, Лук репчатый, Морковь, Яйцо куриное, Молоко 2,5 %, Масло сливочное, Масло подсолнечное, Сухари панировочные, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 396,
+            "protein": 10,
+            "fat": 25,
+            "carbs": 35
         }
     },
     {
@@ -1521,45 +1521,80 @@
         }
     },
     {
-        "id": "13625",
+        "id": "50468",
         "order": 85,
         "category": "meat",
-        "title": "Тефтели домашние в томатном соусе",
-        "weight": 330,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/7fb/373_245_0/7fbec5e4ca36fa5203c6a09076a2304e.webp",
-        "price": 235,
-        "link": "https://crosspack.ru/menu/tefteli-domashnie-v-tomatnom-souse-330g/",
-        "ingredients": "Говядина, Свинина, Курица, Рис, Лук репчатый, морковь, масло подсолнечное, чеснок, томатная паста, Сухари панировочные, Яйцо куриное, Соль, Специи.",
+        "title": "Свинина с булгуром в луковом соусе",
+        "weight": 300,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/c8f/373_245_0/c8f78b82a62e4f1c61c915cb320a9efa.webp",
+        "price": 185,
+        "link": "https://crosspack.ru/menu/svinina-s-bulgurom-v-lukovom-souse-300g/",
+        "ingredients": "Свинина, Булгур, Лук репчатый, Горчица, Майонез, Масло подсолнечное, Соевый соус, Петрушка, Специи",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 465,
-            "protein": 31,
-            "fat": 21,
-            "carbs": 39
+            "calories": 358,
+            "protein": 26,
+            "fat": 16,
+            "carbs": 27
         }
     },
     {
-        "id": "13607",
+        "id": "50467",
         "order": 86,
         "category": "meat",
-        "title": "Котлетки мясные",
-        "count": "4",
+        "title": "Свинина с гречкой в луковом соусе",
         "weight": 300,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/789/373_245_0/789eeedc1b8f31165a0fbf5dd372e7ac.webp",
-        "price": 380,
-        "link": "https://crosspack.ru/menu/kotletki-myasnye-4sht/",
-        "ingredients": "Говядина, Свинина, Хлеб, Лук репчатый, Яйцо куриное, Горчица, Масло подсолнечное, Соль, Специи",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/d10/373_245_0/d10e70f33170b71c1446fafa71b936cb.webp",
+        "price": 185,
+        "link": "https://crosspack.ru/menu/svinina-s-grechkoy-v-lukovom-souse-300g/",
+        "ingredients": "Свинина, Гречка, Лук репчатый, Горчица, Майонез, Масло подсолнечное, Соевый соус, Петрушка, Специи",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 719,
-            "protein": 56,
-            "fat": 42,
-            "carbs": 25
+            "calories": 395,
+            "protein": 26,
+            "fat": 20,
+            "carbs": 27
+        }
+    },
+    {
+        "id": "50466",
+        "order": 87,
+        "category": "meat",
+        "title": "Свинина с пюре в луковом соусе",
+        "weight": 300,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/fa3/373_245_0/fa36d0ae04387721791e3354661226dd.webp",
+        "price": 185,
+        "link": "https://crosspack.ru/menu/svinina-s-pyure-v-lukovom-souse-300g/",
+        "ingredients": "Свинина, Картофель, Молоко 2,5 %, Масло сливочное, Соль, Лук репчатый, Горчица, Майонез, Масло подсолнечное, Соевый соус, Петрушка, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 397,
+            "protein": 25,
+            "fat": 21,
+            "carbs": 24
+        }
+    },
+    {
+        "id": "50465",
+        "order": 88,
+        "category": "meat",
+        "title": "Свинина в луковом соусе",
+        "weight": 200,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/83e/373_245_0/83e1b7d746ae7103575e2c96508039b9.webp",
+        "price": 170,
+        "link": "https://crosspack.ru/menu/svinina-v-lukovom-souse-200g/",
+        "ingredients": "Свинина, Лук репчатый, горчица, майонез, масло подсолнечное, соевый соус, петрушка, специи.",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 275,
+            "protein": 23,
+            "fat": 16,
+            "carbs": 8
         }
     },
     {
         "id": "69",
-        "order": 87,
+        "order": 89,
         "category": "meat",
         "title": "Бефстроганов с пюре",
         "weight": 300,
@@ -1577,7 +1612,7 @@
     },
     {
         "id": "2153",
-        "order": 88,
+        "order": 90,
         "category": "meat",
         "title": "Бефстроганов с гречкой и грибами",
         "weight": 300,
@@ -1594,8 +1629,63 @@
         }
     },
     {
+        "id": "6482",
+        "order": 91,
+        "category": "meat",
+        "title": "Голубцы ленивые",
+        "weight": 350,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/e04/373_245_0/e04c752b4c338c31ecf6c9e7d52f68bd.webp",
+        "price": 225,
+        "link": "https://crosspack.ru/menu/golubtsy-lenivye-350g/",
+        "ingredients": "Говядина, Свинина, Рис, Капуста, Томатная паста, Хлеб, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 761,
+            "protein": 40,
+            "fat": 55,
+            "carbs": 27
+        }
+    },
+    {
+        "id": "13607",
+        "order": 92,
+        "category": "meat",
+        "title": "Котлетки мясные",
+        "count": "4",
+        "weight": 300,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/789/373_245_0/789eeedc1b8f31165a0fbf5dd372e7ac.webp",
+        "price": 380,
+        "link": "https://crosspack.ru/menu/kotletki-myasnye-4sht/",
+        "ingredients": "Говядина, Свинина, Хлеб, Лук репчатый, Яйцо куриное, Горчица, Масло подсолнечное, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 719,
+            "protein": 56,
+            "fat": 42,
+            "carbs": 25
+        }
+    },
+    {
+        "id": "13625",
+        "order": 93,
+        "category": "meat",
+        "title": "Тефтели домашние в томатном соусе",
+        "weight": 330,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/7fb/373_245_0/7fbec5e4ca36fa5203c6a09076a2304e.webp",
+        "price": 235,
+        "link": "https://crosspack.ru/menu/tefteli-domashnie-v-tomatnom-souse-330g/",
+        "ingredients": "Говядина, Свинина, Курица, Рис, Лук репчатый, морковь, масло подсолнечное, чеснок, томатная паста, Сухари панировочные, Яйцо куриное, Соль, Специи.",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 465,
+            "protein": 31,
+            "fat": 21,
+            "carbs": 39
+        }
+    },
+    {
         "id": "95",
-        "order": 89,
+        "order": 94,
         "category": "fish",
         "title": "Кальмары в остром томатном соусе",
         "weight": 250,
@@ -1613,7 +1703,7 @@
     },
     {
         "id": "108",
-        "order": 90,
+        "order": 95,
         "category": "fish",
         "title": "Биточек рыбный с рисом",
         "weight": 250,
@@ -1631,7 +1721,7 @@
     },
     {
         "id": "4355",
-        "order": 91,
+        "order": 96,
         "category": "fish",
         "title": "Биточек рыбный с пюре",
         "weight": 250,
@@ -1649,7 +1739,7 @@
     },
     {
         "id": "13987",
-        "order": 92,
+        "order": 97,
         "category": "fish",
         "title": "Минтай жареный",
         "weight": 180,
@@ -1667,7 +1757,7 @@
     },
     {
         "id": "13613",
-        "order": 93,
+        "order": 98,
         "category": "fish",
         "title": "Минтай жареный с пюре",
         "weight": 280,
@@ -1685,7 +1775,7 @@
     },
     {
         "id": "13988",
-        "order": 94,
+        "order": 99,
         "category": "fish",
         "title": "Минтай на пару",
         "weight": 100,
@@ -1703,7 +1793,7 @@
     },
     {
         "id": "13989",
-        "order": 95,
+        "order": 100,
         "category": "fish",
         "title": "Минтай на пару с запеченными овощами",
         "weight": 300,
@@ -1721,7 +1811,7 @@
     },
     {
         "id": "34",
-        "order": 96,
+        "order": 101,
         "category": "fish",
         "title": "Фетучини с морепродуктами",
         "weight": 250,
@@ -1738,44 +1828,44 @@
         }
     },
     {
-        "id": "13446",
-        "order": 97,
+        "id": "50209",
+        "order": 102,
         "category": "fish",
-        "title": "Дикий лосось с овощами",
+        "title": "Лосось с овощами",
         "weight": 260,
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/097/373_245_0/0971e151e90bd55b6cf526d525d2699f.webp",
         "price": 310,
-        "link": "https://crosspack.ru/menu/dikiy-losos-s-ovoshchami-260g/",
-        "ingredients": "Лосось, Овощи запеченные (Брокколи, Капуста цветная, Грибы шампиньоны, Морковь, Фасоль стручковая, Лук репчатый, Масло подсолнечное, Соль, Специи), Масло подсолнечное, Соль, Специи. ",
+        "link": "https://crosspack.ru/menu/losos-s-ovoshchami-260g/",
+        "ingredients": "Лосось, Овощи запеченные (Брокколи, Капуста цветная, Грибы шампиньоны, Морковь, Фасоль стручковая, Лук репчатый, Масло подсолнечное, Соль, Специи), Масло подсолнечное, Соль, Специи.",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 314,
-            "protein": 28,
+            "calories": 272,
+            "protein": 27,
             "fat": 13,
-            "carbs": 23
+            "carbs": 14
         }
     },
     {
-        "id": "13448",
-        "order": 98,
+        "id": "50210",
+        "order": 103,
         "category": "fish",
-        "title": "Дикий лосось с пюре",
+        "title": "Лосось с пюре",
         "weight": 260,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/cd8/373_245_0/cd819ae790aff1f6f691aae741312535.webp",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/308/373_245_0/3087c62a6a102ce0d180c15d0b55c5f1.webp",
         "price": 299,
-        "link": "https://crosspack.ru/menu/dikiy-losos-s-pyure-260g/",
+        "link": "https://crosspack.ru/menu/losos-s-pyure-260g/",
         "ingredients": "Лосось, Картофель, Молоко 2,5%, Сливки 22%, Масло подсолнечное, Соль, Специи.",
         "expiration": "5 суток",
         "indicators": {
-            "calories": 252,
-            "protein": 27,
-            "fat": 13,
-            "carbs": 8
+            "calories": 367,
+            "protein": 26,
+            "fat": 17,
+            "carbs": 25
         }
     },
     {
         "id": "13614",
-        "order": 99,
+        "order": 104,
         "category": "fish",
         "title": "Биточки рыбные",
         "count": "3",
@@ -1793,8 +1883,26 @@
         }
     },
     {
+        "id": "51836",
+        "order": 105,
+        "category": "sidedishes",
+        "title": "Картофель мятый с маслом",
+        "weight": 250,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/555/373_245_0/555e6a09466add006c3af4c0ca30320e.webp",
+        "price": 156,
+        "link": "https://crosspack.ru/menu/kartofel-myatyy-s-maslom-250g/",
+        "ingredients": "Картофель, Масло сливочное, Чеснок свежий, Укроп, Соль",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 397,
+            "protein": 5,
+            "fat": 25,
+            "carbs": 43
+        }
+    },
+    {
         "id": "105",
-        "order": 100,
+        "order": 106,
         "category": "sidedishes",
         "title": "Запеченные овощи",
         "weight": 250,
@@ -1812,7 +1920,7 @@
     },
     {
         "id": "55",
-        "order": 101,
+        "order": 107,
         "category": "sidedishes",
         "title": "Картофель запеченный с чесночным соусом",
         "weight": 250,
@@ -1829,26 +1937,8 @@
         }
     },
     {
-        "id": "13608",
-        "order": 102,
-        "category": "sidedishes",
-        "title": "Солянка из капусты с беконом",
-        "weight": 300,
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/dfd/373_245_0/dfd322074f032c9885c68d8ac454c1af.webp",
-        "price": 175,
-        "link": "https://crosspack.ru/menu/solyanka-iz-kapusty-s-bekonom-300g/",
-        "ingredients": "Капуста белокочанная, Бекон, Лук репчатый, Масло подсолнечное, Соль, Специи",
-        "expiration": "5 суток",
-        "indicators": {
-            "calories": 475,
-            "protein": 23,
-            "fat": 33,
-            "carbs": 22
-        }
-    },
-    {
         "id": "6488",
-        "order": 103,
+        "order": 108,
         "category": "sidedishes",
         "title": "Чечевица с овощами",
         "weight": 200,
@@ -1865,8 +1955,26 @@
         }
     },
     {
+        "id": "100",
+        "order": 109,
+        "category": "sidedishes",
+        "title": "Кабачок запеченный под сыром",
+        "weight": 180,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/ed9/373_245_0/ed98f26065752be155a3747339438bb4.webp",
+        "price": 138,
+        "link": "https://crosspack.ru/menu/kabachok-zapechennyy-pod-syrom-180gr/",
+        "ingredients": "Кабачок, Сыр Гауда, Майонез, Чеснок, Яйцо куриное, Соль, Специи",
+        "expiration": "5 суток",
+        "indicators": {
+            "calories": 160,
+            "protein": 8,
+            "fat": 11,
+            "carbs": 9
+        }
+    },
+    {
         "id": "71",
-        "order": 104,
+        "order": 110,
         "category": "sidedishes",
         "title": "Пюре картофельное",
         "weight": 150,
@@ -1884,7 +1992,7 @@
     },
     {
         "id": "73",
-        "order": 105,
+        "order": 111,
         "category": "sidedishes",
         "title": "Гречка",
         "weight": 150,
@@ -1902,7 +2010,7 @@
     },
     {
         "id": "13626",
-        "order": 106,
+        "order": 112,
         "category": "sidedishes",
         "title": "Булгур",
         "weight": 150,
@@ -1920,7 +2028,7 @@
     },
     {
         "id": "72",
-        "order": 107,
+        "order": 113,
         "category": "sidedishes",
         "title": "Макароны",
         "weight": 150,
@@ -1938,7 +2046,7 @@
     },
     {
         "id": "6887",
-        "order": 108,
+        "order": 114,
         "category": "dessert",
         "title": "Чизкейк с клубникой",
         "weight": 100,
@@ -1956,7 +2064,7 @@
     },
     {
         "id": "6757",
-        "order": 109,
+        "order": 115,
         "category": "dessert",
         "title": "Чизкейк кокосовый",
         "weight": 100,
@@ -1974,7 +2082,7 @@
     },
     {
         "id": "6736",
-        "order": 110,
+        "order": 116,
         "category": "dessert",
         "title": "Чизкейк шоколадный",
         "weight": 100,
@@ -1992,7 +2100,7 @@
     },
     {
         "id": "6646",
-        "order": 111,
+        "order": 117,
         "category": "dessert",
         "title": "Чизкейк манго-маракуйя",
         "weight": 125,
@@ -2010,7 +2118,7 @@
     },
     {
         "id": "6645",
-        "order": 112,
+        "order": 118,
         "category": "dessert",
         "title": "Чизкейк с малиной",
         "weight": 100,
@@ -2028,7 +2136,7 @@
     },
     {
         "id": "1870",
-        "order": 113,
+        "order": 119,
         "category": "dessert",
         "title": "Наполеон",
         "weight": 200,
@@ -2046,7 +2154,7 @@
     },
     {
         "id": "2783",
-        "order": 114,
+        "order": 120,
         "category": "dessert",
         "title": "Пирожное «Картошка»",
         "weight": 130,
@@ -2064,7 +2172,7 @@
     },
     {
         "id": "1872",
-        "order": 115,
+        "order": 121,
         "category": "dessert",
         "title": "Трубочки вафельные с вареной сгущенкой",
         "weight": 150,
@@ -2082,7 +2190,7 @@
     },
     {
         "id": "1873",
-        "order": 116,
+        "order": 122,
         "category": "dessert",
         "title": "Трубочки с кремом",
         "weight": 80,
@@ -2100,7 +2208,7 @@
     },
     {
         "id": "1871",
-        "order": 117,
+        "order": 123,
         "category": "dessert",
         "title": "Рулет бисквитный",
         "weight": 150,
@@ -2118,7 +2226,7 @@
     },
     {
         "id": "8",
-        "order": 118,
+        "order": 124,
         "category": "dessert",
         "title": "Запеканка из рикотты",
         "weight": 140,
@@ -2136,7 +2244,7 @@
     },
     {
         "id": "2160",
-        "order": 119,
+        "order": 125,
         "category": "dessert",
         "title": "Муравейник",
         "weight": 150,
@@ -2154,7 +2262,7 @@
     },
     {
         "id": "6904",
-        "order": 120,
+        "order": 126,
         "category": "drinks",
         "title": "Морс клюквенный",
         "weight": 525,
@@ -2170,14 +2278,14 @@
     },
     {
         "id": "26",
-        "order": 121,
+        "order": 127,
         "category": "drinks",
         "title": "Компот сезонный",
         "weight": 525,
         "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/63e/373_245_0/63eccf688b152210f0ee89815930d2e3.webp",
         "price": 80,
         "link": "https://crosspack.ru/menu/kompot-sezonnyy-500ml/",
-        "ingredients": "Вода, Ягода с\\м, Сахар",
+        "ingredients": "Вода, Черника, Клубника, Черная смородина, Сахар",
         "indicators": {
             "calories": 205,
             "protein": 0.5,
@@ -2186,7 +2294,7 @@
     },
     {
         "id": "28",
-        "order": 122,
+        "order": 128,
         "category": "drinks",
         "title": "Компот облепиха",
         "weight": 525,
@@ -2201,88 +2309,238 @@
         }
     },
     {
-        "id": "4162",
-        "order": 123,
+        "id": "14079",
+        "order": 129,
         "category": "sets",
-        "title": "394р. 4 блюда в день - 5 дней.",
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/9f5/373_245_0/9f566daff83471e374b2ea3ccf8d3339.webp",
-        "price": 1971,
-        "link": "https://crosspack.ru/menu/394r-4-blyuda-v-den-5-dney/",
+        "title": "1200ккал - 1 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/523/373_245_0/5231160f9c2140784d721afbddaef43d.webp",
+        "price": 3532,
+        "link": "https://crosspack.ru/menu/1200kkal-1-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14129",
+        "order": 130,
+        "category": "sets",
+        "title": "1200ккал - 2 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/88b/373_245_0/88b00873d2db486a8ca85d4331fd5b08.webp",
+        "price": 3352,
+        "link": "https://crosspack.ru/menu/1200kkal-2-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14131",
+        "order": 131,
+        "category": "sets",
+        "title": "1200ккал - 3 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/974/373_245_0/974ca300f1e8c4397ba2ebf82878245d.webp",
+        "price": 3253,
+        "link": "https://crosspack.ru/menu/1200kkal-3-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14132",
+        "order": 132,
+        "category": "sets",
+        "title": "1500ккал - 1 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/b5a/373_245_0/b5a8b4779657159d39118e8279ff9d74.webp",
+        "price": 4608,
+        "link": "https://crosspack.ru/menu/1500kkal-1-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14133",
+        "order": 133,
+        "category": "sets",
+        "title": "1500ккал - 2 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/da5/373_245_0/da5c0483aa85d8b637f5f352a1536291.webp",
+        "price": 4209,
+        "link": "https://crosspack.ru/menu/1500kkal-2-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14134",
+        "order": 134,
+        "category": "sets",
+        "title": "1500ккал - 3 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/ed1/373_245_0/ed18200f0d7cfbe1dcbe1c3ab741eb5e.webp",
+        "price": 4409,
+        "link": "https://crosspack.ru/menu/1500kkal-3-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14135",
+        "order": 135,
+        "category": "sets",
+        "title": "1800ккал - 1 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/33a/373_245_0/33a6930423c311d4ba9c6743948046d1.webp",
+        "price": 4378,
+        "link": "https://crosspack.ru/menu/1800kkal-1-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14136",
+        "order": 136,
+        "category": "sets",
+        "title": "1800ккал - 2 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/026/373_245_0/026fecd78d9957dd943b5f1e0b857226.webp",
+        "price": 4383,
+        "link": "https://crosspack.ru/menu/1800kkal-2-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14137",
+        "order": 137,
+        "category": "sets",
+        "title": "1800ккал - 3 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/ba7/373_245_0/ba742c570b9bebd9c0f01465bc46f527.webp",
+        "price": 4529,
+        "link": "https://crosspack.ru/menu/1800kkal-3-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14140",
+        "order": 138,
+        "category": "sets",
+        "title": "2000ккал - 1 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/c59/373_245_0/c5967054edbe6f79cbc511d534531213.webp",
+        "price": 5176,
+        "link": "https://crosspack.ru/menu/2000kkal-1-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14141",
+        "order": 139,
+        "category": "sets",
+        "title": "2000ккал - 2 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/902/373_245_0/902f2e601aac0e20aae76124dd435f7b.webp",
+        "price": 5306,
+        "link": "https://crosspack.ru/menu/2000kkal-2-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14142",
+        "order": 140,
+        "category": "sets",
+        "title": "2000ккал - 3 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/289/373_245_0/2899441cb652641539170f7c4bdf8a4f.webp",
+        "price": 5073,
+        "link": "https://crosspack.ru/menu/2000kkal-3-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14143",
+        "order": 141,
+        "category": "sets",
+        "title": "2200ккал - 1 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/986/373_245_0/986e93a80f446ea029f30e4e122e81a8.webp",
+        "price": 5224,
+        "link": "https://crosspack.ru/menu/2200kkal-1-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14144",
+        "order": 142,
+        "category": "sets",
+        "title": "2200ккал - 2 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/b64/373_245_0/b6417bf3066b49cfe3106e541661a8fa.webp",
+        "price": 5234,
+        "link": "https://crosspack.ru/menu/2200kkal-2-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "14145",
+        "order": 143,
+        "category": "sets",
+        "title": "2200ккал - 3 вариант",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/df1/373_245_0/df11d9cbced04f79ff1b758911e83cf4.webp",
+        "price": 5384,
+        "link": "https://crosspack.ru/menu/2200kkal-3-variant/",
+        "indicators": {}
+    },
+    {
+        "id": "4162",
+        "order": 144,
+        "category": "sets",
+        "title": "390р. 4 блюда в день - 5 дней.",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/8c1/373_245_0/8c1a91c80c7a4e49c8fef01f7b4c6947.webp",
+        "price": 1949,
+        "link": "https://crosspack.ru/menu/390r-4-blyuda-v-den-5-dney/",
         "indicators": {}
     },
     {
         "id": "2849",
-        "order": 124,
+        "order": 145,
         "category": "sets",
-        "title": "454р. 4 блюда в день - 5 дней.",
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/219/373_245_0/21958e3dad3235cc7319aca1a65072c8.webp",
-        "price": 2270,
-        "link": "https://crosspack.ru/menu/454r-4-blyuda-v-den-5-dney/",
+        "title": "461р. 4 блюда в день - 5 дней.",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/3c4/373_245_0/3c452a3541db23f0751b65d3b843bdda.webp",
+        "price": 2306,
+        "link": "https://crosspack.ru/menu/461r-4-blyuda-v-den-5-dney/",
         "indicators": {}
     },
     {
         "id": "1937",
-        "order": 125,
+        "order": 146,
         "category": "sets",
-        "title": "598р. 5 блюд в день - 5 дней.",
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/af6/373_245_0/af684dec39e8aaabc71854814a029909.webp",
-        "price": 2992,
-        "link": "https://crosspack.ru/menu/598r-5-blyud-v-den-5-dney/",
+        "title": "616р. 5 блюд в день - 5 дней.",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/7b7/373_245_0/7b7d3c9c97e187889ecebf1823819765.webp",
+        "price": 3081,
+        "link": "https://crosspack.ru/menu/616r-5-blyud-v-den-5-dney/",
         "indicators": {}
     },
     {
         "id": "2236",
-        "order": 126,
+        "order": 147,
         "category": "sets",
-        "title": "707р. 5 блюд в день - 5 дней.",
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/0e8/373_245_0/0e8e6ba04ff29ec0dcab8262c2a2434f.webp",
-        "price": 3535,
-        "link": "https://crosspack.ru/menu/707r-5-blyud-v-den-5-dney/",
+        "title": "713р. 5 блюд в день - 5 дней.",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/197/373_245_0/1971edf4b1441d1749d8d8d020242d32.webp",
+        "price": 3563,
+        "link": "https://crosspack.ru/menu/713r-5-blyud-v-den-5-dney/",
         "indicators": {}
     },
     {
         "id": "2237",
-        "order": 127,
+        "order": 148,
         "category": "sets",
-        "title": "813р. 5 блюд в день - 5 дней.",
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/225/373_245_0/225b1d333c0f29e9d22f39a3774cac00.webp",
-        "price": 4063,
-        "link": "https://crosspack.ru/menu/813r-5-blyud-v-den-5-dney/",
+        "title": "820р. 5 блюд в день - 5 дней.",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/571/373_245_0/571621b10b9600badc68597b7f71df47.webp",
+        "price": 4101,
+        "link": "https://crosspack.ru/menu/820r-5-blyud-v-den-5-dney/",
         "indicators": {}
     },
     {
         "id": "93",
-        "order": 128,
+        "order": 149,
         "category": "sets",
-        "title": "879р. 5 блюд в день - 5 дней.",
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/4f8/373_245_0/4f8cbaf171770cac1ba5a35003b0e101.webp",
-        "price": 4394,
-        "link": "https://crosspack.ru/menu/879r-5-blyud-v-den-5-dney/",
+        "title": "913р. 5 блюд в день - 5 дней.",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/ea3/373_245_0/ea37525ad45003bbd454bb96c694b9d2.webp",
+        "price": 4564,
+        "link": "https://crosspack.ru/menu/913r-5-blyud-v-den-5-dney/",
         "indicators": {}
     },
     {
         "id": "94",
-        "order": 129,
+        "order": 150,
         "category": "sets",
-        "title": "1027р. 6 блюд в день - 5 дней.",
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/021/373_245_0/021497cf8bc54df0eddd5db01eb1fe88.webp",
-        "price": 5136,
-        "link": "https://crosspack.ru/menu/1027-6-blyud-v-den-5-dney/",
+        "title": "1031р. 6 блюд в день - 5 дней.",
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/c73/373_245_0/c73beb15fbc3ca13b77384481549ca10.webp",
+        "price": 5154,
+        "link": "https://crosspack.ru/menu/1031-6-blyud-v-den-5-dney/",
         "indicators": {}
     },
     {
         "id": "13991",
-        "order": 130,
+        "order": 151,
         "category": "sets",
         "title": "Попробовать новинки",
-        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/b53/373_245_0/b53597e4011f5d8b5fb8245e9b00d52f.webp",
-        "price": 2614,
+        "img": "https://crosspack.ru/upload/webp/resize_cache/iblock/16e/373_245_0/16e2934055b7a0b6b7bc9ac7b045e4ad.webp",
+        "price": 1167,
         "link": "https://crosspack.ru/menu/poprobovat-novinki/",
         "indicators": {}
     },
     {
         "id": "13482",
-        "order": 131,
+        "order": 152,
         "category": "freeze",
         "title": "Пельмени домашние с курицей",
         "weight": 1000,
@@ -2300,7 +2558,7 @@
     },
     {
         "id": "13483",
-        "order": 132,
+        "order": 153,
         "category": "freeze",
         "title": "Пельмени домашние с мясом",
         "weight": 1000,
@@ -2318,7 +2576,7 @@
     },
     {
         "id": "13489",
-        "order": 133,
+        "order": 154,
         "category": "freeze",
         "title": "Тефтели с рисом домашние",
         "weight": 1000,
@@ -2336,7 +2594,7 @@
     },
     {
         "id": "13490",
-        "order": 134,
+        "order": 155,
         "category": "freeze",
         "title": "Фрикадельки куриные домашние",
         "weight": 1000,
@@ -2354,7 +2612,7 @@
     },
     {
         "id": "13491",
-        "order": 135,
+        "order": 156,
         "category": "freeze",
         "title": "Фрикадельки с овощами домашние",
         "weight": 1000,
